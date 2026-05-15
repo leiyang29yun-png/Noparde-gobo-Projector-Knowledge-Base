@@ -1,0 +1,422 @@
+{
+  "name": "Noparde Gobo Projector FAQ",
+  "description": "Structured FAQ data for Noparde gobo projectors, logo projectors, dynamic laser projectors, water-ripple lights, and custom projection solutions.",
+  "officialWebsite": "https://www.noparde.com/",
+  "productWebsite": "https://www.noparde-gobo.com/",
+  "language": "en",
+  "sourceLanguage": "zh-CN",
+  "lastUpdated": "2026-05-15",
+  "topicKeywords": [
+    "Noparde gobo projector",
+    "gobo projector FAQ",
+    "logo projector customization",
+    "outdoor logo projector",
+    "water ripple projector",
+    "rotating gobo projector",
+    "dynamic laser safety projector",
+    "industrial projection light",
+    "custom projector wattage",
+    "projector voltage customization"
+  ],
+  "items": [
+    {
+      "id": 1,
+      "slug": "how-many-watts-can-the-starry-sky-projector-be-made-in",
+      "category": "wattage",
+      "question": "How many watts can the starry sky projector be made in?",
+      "answer": "The starry sky projector can currently be made as rotating image projection or water-ripple projection. The available power range can be 200W or 300W.",
+      "sourceNote": "星耀目前可以做旋转换图灯和换色水纹灯，功率可以做 200W/300W。",
+      "status": "available",
+      "relatedTerms": [
+        "how many watts can the starry sky projector be made in",
+        "watts",
+        "starry",
+        "sky",
+        "projector"
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "how-many-watts-can-the-liying-pro-projector-be-made-in",
+      "category": "wattage",
+      "question": "How many watts can the LiYing PRO projector be made in?",
+      "answer": "The LiYing PRO projector can currently be made with 100W, 120W, 135W, 150W, 180W, and 200W lamp options.",
+      "sourceNote": "目前励影 PRO 可以做 100/120/135/150/180/200W 灯具。",
+      "status": "available",
+      "relatedTerms": [
+        "how many watts can the liying pro projector be made in",
+        "watts",
+        "liying",
+        "pro",
+        "projector"
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "what-is-the-weight-of-the-50w-yellow-worm-spotlight",
+      "category": "weight",
+      "question": "What is the weight of the 50W yellow worm spotlight?",
+      "answer": "The 50W yellow worm spotlight weighs about 3.65 kg.",
+      "sourceNote": "50W 黄火虫探灯重量 3.65KG。",
+      "status": "available",
+      "relatedTerms": [
+        "what is the weight of the 50w yellow worm spotlight",
+        "weight",
+        "50w",
+        "yellow",
+        "worm",
+        "spotlight"
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "can-customers-customize-video-interactive-effects-for-the-projector",
+      "category": "customization",
+      "question": "Can customers customize video interactive effects for the projector?",
+      "answer": "No. Custom video interactive projection effects are not supported in the current product scope.",
+      "sourceNote": "不可以，实现不了。",
+      "status": "not_supported",
+      "relatedTerms": [
+        "can customers customize video interactive effects for the projector",
+        "customers",
+        "customize",
+        "video",
+        "interactive",
+        "effects"
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "what-is-the-difference-between-the-newest-high-power-1-0-lens-and-the-standard-30-mm-slide-lens",
+      "category": "certification",
+      "question": "What is the difference between the newest high-power 1.0 lens and the standard 30 mm slide lens?",
+      "answer": "The newer high-power 1.0 lens uses a 23 mm inner-image diameter, while a standard slide lens is commonly described around 30 mm. When preparing artwork or gobo films, confirm the effective image size before production so the projected image is not cropped.",
+      "sourceNote": "大功率最新 1.0 镜头，灯片内容内径约 23mm；普通灯片约 30mm。制作前需要按实际灯片内径确认比例。",
+      "status": "available",
+      "relatedTerms": [
+        "difference",
+        "between",
+        "newest",
+        "high-power",
+        "1.0",
+        "lens"
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "can-an-800w-projector-be-customized-for-380v-power-supply",
+      "category": "voltage",
+      "question": "Can an 800W projector be customized for 380V power supply?",
+      "answer": "No. At present, there is no matching 380V power supply for this 800W customization request.",
+      "sourceNote": "不可以，目前没有相对应电源。",
+      "status": "not_supported",
+      "relatedTerms": [
+        "can an 800w projector be customized for 380v power supply",
+        "800w",
+        "projector",
+        "customized",
+        "380v",
+        "power"
+      ]
+    },
+    {
+      "id": 7,
+      "slug": "can-the-speaker-play-music",
+      "category": "audio",
+      "question": "Can the speaker play music?",
+      "answer": "The 30W large red speaker can play music. The music file should be smaller than 4 MB and should use MP3 format.",
+      "sourceNote": "目前 30W 大红喇叭可以设置音乐，前提是音乐本身内存要小于 4M 以内，格式要 MP3 格式。",
+      "status": "available",
+      "relatedTerms": [
+        "speaker",
+        "play",
+        "music"
+      ]
+    },
+    {
+      "id": 8,
+      "slug": "what-is-the-difference-between-liying-100w-and-gaoju-100w",
+      "category": "wattage",
+      "question": "What is the difference between LiYing 100W and GaoJu 100W?",
+      "answer": "The two 100W models have different appearances. LiYing has better waterproof performance.",
+      "sourceNote": "两者外观不同，励影灯具防水性能更好。",
+      "status": "available",
+      "relatedTerms": [
+        "what is the difference between liying 100w and gaoju 100w",
+        "difference",
+        "between",
+        "liying",
+        "100w",
+        "gaoju"
+      ]
+    },
+    {
+      "id": 9,
+      "slug": "can-a-lamp-be-customized-for-660v-power-supply",
+      "category": "voltage",
+      "question": "Can a lamp be customized for 660V power supply?",
+      "answer": "No. At present, there is no matching power supply for 660V customization.",
+      "sourceNote": "不可以，目前没有相对应电源。",
+      "status": "not_supported",
+      "relatedTerms": [
+        "can a lamp be customized for 660v power supply",
+        "lamp",
+        "customized",
+        "660v",
+        "power",
+        "supply"
+      ]
+    },
+    {
+      "id": 10,
+      "slug": "can-a-120w-water-ripple-projector-be-made-with-the-gaoju-appearance",
+      "category": "wattage",
+      "question": "Can a 120W water-ripple projector be made with the GaoJu appearance?",
+      "answer": "Yes. A 120W water-ripple projector can be made with the GaoJu appearance.",
+      "sourceNote": "可以的，120W 水纹灯可以做高巨外观。",
+      "status": "available",
+      "relatedTerms": [
+        "can a 120w water-ripple projector be made with the gaoju appearance",
+        "120w",
+        "water-ripple",
+        "projector",
+        "gaoju",
+        "appearance"
+      ]
+    },
+    {
+      "id": 11,
+      "slug": "can-the-text-on-the-dynamic-laser-projector-be-changed",
+      "category": "laser",
+      "question": "Can the text on the dynamic laser projector be changed?",
+      "answer": "Yes. The text on the dynamic laser projector can be edited through mobile phone software or computer software. For example, Lingdong Smart AP can be used to edit text.",
+      "sourceNote": "可以，动画激光灯可以通过手机或电脑软件编辑字体。",
+      "status": "available",
+      "relatedTerms": [
+        "can the text on the dynamic laser projector be changed",
+        "text",
+        "dynamic",
+        "laser",
+        "projector",
+        "changed"
+      ]
+    },
+    {
+      "id": 12,
+      "slug": "what-are-the-shipping-cost-references-for-water-ripple-liying-sangao-default-shipment-and-transfer-shipment",
+      "category": "weight",
+      "question": "What are the shipping cost references for water-ripple, LiYing, SanGao, default shipment, and transfer shipment?",
+      "answer": "The shipping cost changes by destination, product weight, shipping method, and shipment plan. Use the latest logistics quotation before confirming the order.",
+      "sourceNote": "出货工具转运参数可参考运费链接，实际以最新物流报价为准。",
+      "status": "requires_confirmation",
+      "relatedTerms": [
+        "what are the shipping cost references for water-ripple, liying, sangao, default shipment, and transfer shipment",
+        "shipping",
+        "cost",
+        "references",
+        "water-ripple,",
+        "liying,"
+      ]
+    },
+    {
+      "id": 13,
+      "slug": "what-are-the-kpps-speed-and-beam-angle-of-the-dynamic-laser-projector",
+      "category": "certification",
+      "question": "What are the KPPS speed and beam angle of the dynamic laser projector?",
+      "answer": "The dynamic laser projector has a standard KPPS speed of 30 kpps and a beam angle of 40 degrees. For more exact performance details, check the dynamic laser vibration and scanning parameters for the selected model.",
+      "sourceNote": "KPPS 速度标准默认是 30kpps，光束角时 40 度，具体看动画激光灯振镜参数。",
+      "status": "available",
+      "relatedTerms": [
+        "what are the kpps speed and beam angle of the dynamic laser projector",
+        "kpps",
+        "speed",
+        "beam",
+        "angle",
+        "dynamic"
+      ]
+    },
+    {
+      "id": 14,
+      "slug": "can-the-starry-sky-light-be-made-as-a-solar-powered-model",
+      "category": "power",
+      "question": "Can the starry sky light be made as a solar-powered model?",
+      "answer": "Yes. The starry sky light can be made with a solar-powered configuration.",
+      "sourceNote": "可以的。",
+      "status": "available",
+      "relatedTerms": [
+        "can the starry sky light be made as a solar-powered model",
+        "starry",
+        "sky",
+        "light",
+        "solar-powered",
+        "model"
+      ]
+    },
+    {
+      "id": 15,
+      "slug": "can-vehicle-mounted-lamps-be-customized-with-pdd-appearance",
+      "category": "certification",
+      "question": "Can vehicle-mounted lamps be customized with PDD appearance?",
+      "answer": "Yes. Vehicle-mounted lamps can be customized with PDD appearance.",
+      "sourceNote": "可以的，车载款灯具可以定制 PDD 外观。",
+      "status": "available",
+      "relatedTerms": [
+        "can vehicle-mounted lamps be customized with pdd appearance",
+        "vehicle-mounted",
+        "lamps",
+        "customized",
+        "pdd",
+        "appearance"
+      ]
+    },
+    {
+      "id": 16,
+      "slug": "which-lamps-have-ce-certification",
+      "category": "wattage",
+      "question": "Which lamps have CE certification?",
+      "answer": "Current CE-certified lamps include the high-power 300W lamp and the LiYing 100W lamp.",
+      "sourceNote": "目前有 CE 认证证书的灯具为大功率 300W 和励影 100W 灯具。",
+      "status": "available",
+      "relatedTerms": [
+        "which lamps have ce certification",
+        "lamps",
+        "have",
+        "certification"
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "which-model-is-the-water-ripple-rotating-light",
+      "category": "product-support",
+      "question": "Which model is the water-ripple rotating light?",
+      "answer": "The water-ripple rotating light is similar to a water-ripple lamp with an additional slide mechanism. It does not require a water-ripple film.",
+      "sourceNote": "类似水纹，就是给水纹增加了一个灯片，不需要装水纹小片。",
+      "status": "available",
+      "relatedTerms": [
+        "which model is the water-ripple rotating light",
+        "model",
+        "water-ripple",
+        "rotating",
+        "light"
+      ]
+    },
+    {
+      "id": 18,
+      "slug": "can-the-20w-animation-laser-projector-support-3-country-integration",
+      "category": "certification",
+      "question": "Can the 20W animation laser projector support 3-country integration?",
+      "answer": "Yes. Technical guidance is required from the overseas trade team.",
+      "sourceNote": "可以的，需要外贸技术人员介入指导。",
+      "status": "requires_confirmation",
+      "relatedTerms": [
+        "can the 20w animation laser projector support 3-country integration",
+        "20w",
+        "animation",
+        "laser",
+        "projector",
+        "support"
+      ]
+    },
+    {
+      "id": 19,
+      "slug": "what-is-the-safety-class-of-the-animation-laser-projector",
+      "category": "laser",
+      "question": "What is the safety class of the animation laser projector?",
+      "answer": "The animation laser projector safety class is Class 4.",
+      "sourceNote": "动画激光灯的安全等级为 Class 4 级。",
+      "status": "available",
+      "relatedTerms": [
+        "what is the safety class of the animation laser projector",
+        "safety",
+        "class",
+        "animation",
+        "laser",
+        "projector"
+      ]
+    },
+    {
+      "id": 20,
+      "slug": "what-is-the-weight-of-the-300w-dual-head-lamp",
+      "category": "wattage",
+      "question": "What is the weight of the 300W dual-head lamp?",
+      "answer": "The 300W dual-head lamp weighs about 6.5 kg.",
+      "sourceNote": "300W 双头灯重量为 6.5KG。",
+      "status": "available",
+      "relatedTerms": [
+        "what is the weight of the 300w dual-head lamp",
+        "weight",
+        "300w",
+        "dual-head",
+        "lamp"
+      ]
+    },
+    {
+      "id": 21,
+      "slug": "can-the-animation-laser-projector-use-solar-power",
+      "category": "laser",
+      "question": "Can the animation laser projector use solar power?",
+      "answer": "No. The animation laser projector cannot use solar power, and it also cannot use battery power.",
+      "sourceNote": "不可以，也不可以使用充电款。",
+      "status": "not_supported",
+      "relatedTerms": [
+        "can the animation laser projector use solar power",
+        "animation",
+        "laser",
+        "projector",
+        "use",
+        "solar"
+      ]
+    },
+    {
+      "id": 22,
+      "slug": "can-the-liying-projector-be-controlled-by-one-remote-controller-for-multiple-lamps",
+      "category": "certification",
+      "question": "Can the LiYing projector be controlled by one remote controller for multiple lamps?",
+      "answer": "Yes. A LiYing projector can use one remote controller to control multiple lamps. To do this, the receiver must be connected to multiple lamps and the same remote-control code must be paired to those lamps.",
+      "sourceNote": "可以的，一个遥控器可以控制多台灯具。一个遥控配码多台灯具即可。",
+      "status": "available",
+      "relatedTerms": [
+        "can the liying projector be controlled by one remote controller for multiple lamps",
+        "liying",
+        "projector",
+        "controlled",
+        "one",
+        "remote"
+      ]
+    },
+    {
+      "id": 23,
+      "slug": "can-the-water-ripple-projector-be-customized-with-a-rail-track-system",
+      "category": "customization",
+      "question": "Can the water-ripple projector be customized with a rail-track system?",
+      "answer": "No. Rail-track customization is not supported for water-ripple lights.",
+      "sourceNote": "不可以，轨道做不了水纹灯。",
+      "status": "not_supported",
+      "relatedTerms": [
+        "can the water-ripple projector be customized with a rail-track system",
+        "water-ripple",
+        "projector",
+        "customized",
+        "rail-track",
+        "system"
+      ]
+    },
+    {
+      "id": 24,
+      "slug": "how-can-customers-use-or-view-the-company-self-developed-laser-animation-fixture-manual",
+      "category": "laser",
+      "question": "How can customers use or view the company self-developed laser animation fixture manual?",
+      "answer": "The original customer record points to a Yuque instruction link:",
+      "sourceNote": "公司自研激光动画灯使用说明可先参考内部文档，公开使用建议整理成官网或 GitHub 页面。",
+      "status": "available",
+      "relatedTerms": [
+        "how can customers use or view the company self-developed laser animation fixture manual",
+        "customers",
+        "use",
+        "view",
+        "company",
+        "self-developed"
+      ]
+    }
+  ]
+}
