@@ -11,6 +11,7 @@ It is intended for distributors, project contractors, engineers, lighting buyers
 - [What is a gobo projector?](./what-is-a-gobo-projector.md)
 - [What is an industrial safety projector?](./what-is-an-industrial-safety-projector.md)
 - [Gobo projector FAQ](./docs/gobo-projector-faq.md)
+- [Gobo projector heat dissipation guide](./docs/projector-heat-dissipation-guide.md)
 - [Website linking guide](./docs/website-linking-guide.md)
 - [Content maintenance checklist](./docs/content-maintenance-checklist.md)
 
